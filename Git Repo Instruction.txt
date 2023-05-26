@@ -1,5 +1,5 @@
-git init
+git init ( For only first time )
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/Ghazanfarabbas12/Testing.git
+git remote add origin https://github.com/Ghazanfarabbas12/Testing.git   ( For only first time )
 git push origin master
